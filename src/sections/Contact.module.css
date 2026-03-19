@@ -1,0 +1,11 @@
+.section { background: var(--bg2); text-align: center; }
+.inner { max-width: 600px; margin: 0 auto; }
+.badge { display: inline-flex; margin-bottom: 28px; }
+.title { font-size: clamp(36px,5vw,66px); letter-spacing: -.03em; margin-bottom: 16px; }
+.title em { font-style: italic; font-weight: 300; color: var(--accent); }
+.sub { font-size: 15px; color: var(--soft); margin-bottom: 40px; line-height: 1.75; }
+.links { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; }
+.link { display: flex; align-items: center; gap: 8px; padding: 12px 22px; border: 1px solid var(--line); border-radius: 9px; font-family: var(--mono); font-size: 12px; color: var(--soft); background: var(--bg); cursor: pointer; transition: border-color .2s, color .2s, transform .25s var(--ease); text-decoration: none; }
+.link:hover { border-color: var(--accent); color: var(--accent); transform: translateY(-2px); }
+.primary { background: var(--accent); border-color: var(--accent); color: #000; }
+.primary:hover { box-shadow: 0 10px 32px rgba(200,240,75,.2); color: #000; }

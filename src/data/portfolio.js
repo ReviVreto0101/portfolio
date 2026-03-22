@@ -1,13 +1,13 @@
 // ── Personal info ─────────────────────────────────────────────────
 export const PERSONAL = {
-  name: '[Your Name]',
-  initials: '[YN]',
+  name: 'Revi Vreto',
+  initials: 'REVI VRETO',
   role: 'Frontend Developer',
   location: 'Tirana, Albania',
-  email: 'your@email.com',
-  linkedin: 'https://linkedin.com/in/your-handle',
-  github: 'https://github.com/your-handle',
-  cvUrl: '/cv.pdf',
+  email: 'revivreto@gmail.com',
+  linkedin: 'https://linkedin.com/in/revi-vreto-19790624a/',
+  github: 'https://github.com/ReviVreto0101',
+  cvUrl: 'CV_ReviVreto/cv.pdf',
   tagline: 'Building interfaces that feel right.',
   taglineSub: 'Not just look right.',
   bio: [
